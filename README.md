@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/rubensfranklin/Curso-intermediario-Angular/blob/main/a5cb4d8b-3139-4411-ae90-dd655a1deaa9.svg" alt="Image" width="800" height="600" />
+    <img src="https://github.com/rubensfranklin/Curso-intermediario-Angular/blob/main/a5cb4d8b-3139-4411-ae90-dd655a1deaa9.svg" alt="Image" width="500" height="250" />
 </p>
 
 # Curso Intermediário de Angular - Digital Innovation One
