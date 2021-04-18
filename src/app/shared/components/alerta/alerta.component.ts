@@ -11,11 +11,11 @@ export class AlertaComponent implements OnInit {
 
   alerta = {
     titulo: 'Sucesso!',
-    descricao: 'Seu registro foi cadastrado com sucesso!',
+    descricao: 'Seu filme foi cadastrado com sucesso!',
     btnSucesso: 'OK',
     btnCancelar: 'Cancelar',
-    corBtnSucesso: 'accent',
-    corBtnCancelar: 'warn',
+    corBtnSucesso: 'warn',
+    corBtnCancelar: 'accent',
     possuirBtnFechar: false
   } as Alerta;
 

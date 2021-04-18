@@ -1,8 +1,20 @@
 # Curso Intermediário de Angular - Digital Innovation One
 
-Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
+Esse é o excercio do intermediario de angular no Bootcamp da[Avanade](https://www.avanade.com/pt-br) na plataforma [Digital Innovation One](https://digitalinnovation.one/)
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
+
+Relação de títulos:
+
+1.	Godzilla vs. Kong
+2.	Liga da Justiça de Zack Snyde
+3.	Mortal Kombat 
+4.	Mulher-Maravilha 1984
+5.	Os Croods 2: Uma Nova Era
+6.	Raya e o Último Dragão
+7.	Soul 
+8.	Velozes & Furiosos 9
+
 
 ## Instalação
 

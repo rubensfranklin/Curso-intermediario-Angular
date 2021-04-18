@@ -9,6 +9,76 @@
       "urlIMDb": "https://www.imdb.com/title/tt7126948/",
       "genero": "Aventura",
       "id": 12
+    },
+    {
+      "titulo": "Velozes & Furiosos 9 ",
+      "urlFoto": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/20982-cartaz.jpg",
+      "dtLancamento": "2021-04-30T03:00:00.000Z",
+      "descricao": "Nona sequela da franquia Velozes e Furiosos.\n",
+      "nota": 10,
+      "urlIMDb": "https://www.imdb.com/title/tt5433138/?ref_=tt_mv_close",
+      "genero": "Ação",
+      "id": 13
+    },
+    {
+      "titulo": "Liga da Justiça de Zack Snyder",
+      "urlFoto": "https://s2.glbimg.com/8XQWNk6-ZqEse94lJS1yMt5YG6s=/0x0:4320x3240/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/k/j/bvu9ONTAKcDmFBjMUm3A/liga-da-justica-de-zack-snyder-cut.jpg",
+      "dtLancamento": "2021-03-18T03:00:00.000Z",
+      "descricao": "Em um mundo de luto e ainda aprendendo a viver sem Superman, Bruce Wayne recruta um time de metahumanos para enfrentar um implacável senhor da guerra vindo das estrelas determinado a conquistar a Terra.",
+      "nota": 8.1,
+      "urlIMDb": "https://www.imdb.com/title/tt12361974/?ref_=hm_fanfav_tt_i_2_pd_fp1",
+      "genero": "Aventura",
+      "id": 14
+    },
+    {
+      "titulo": "Godzilla vs. Kong",
+      "urlFoto": "http://vortexcultural.com.br/images/2021/04/Godzilla-x-Kong-poster.jpg",
+      "dtLancamento": "2021-03-31T03:00:00.000Z",
+      "descricao": "Quando o gigantesco Kong encontra o incontrolável Godzilla, o mundo assiste para ver qual deles se tornará o Rei dos Monstros.\n",
+      "nota": 6.5,
+      "urlIMDb": "https://www.imdb.com/title/tt5034838/?ref_=tt_sims_tt",
+      "genero": "Ficção cientifica",
+      "id": 15
+    },
+    {
+      "titulo": "Os Croods 2: Uma Nova Era",
+      "urlFoto": "https://1.bp.blogspot.com/-FvgtrI7jXBc/X6xxQwFhhwI/AAAAAAAAfnU/8ZXCZDyPUK8LQfkVoDSy_Z4mrMIbqkWBgCLcBGAsYHQ/s1500/Crood%2B2.jpg",
+      "dtLancamento": "2020-11-30T03:00:00.000Z",
+      "descricao": "A família pré-histórica, os Croods, são desafiados por uma família rival, os Bettermans, que afirmam ser melhores e mais evoluídos.",
+      "nota": 7,
+      "urlIMDb": "https://www.imdb.com/title/tt2850386/?ref_=tt_mv_close",
+      "genero": "Comédia",
+      "id": 16
+    },
+    {
+      "titulo": "Soul ",
+      "urlFoto": "https://br.web.img3.acsta.net/pictures/20/10/09/10/12/0923276.jpg",
+      "dtLancamento": "2020-12-25T03:00:00.000Z",
+      "descricao": "Um músico que perdeu a paixão pela música é transportado para fora do corpo e deve encontrar o caminho de volta com a ajuda de uma alma infantil.\n",
+      "nota": 8.1,
+      "urlIMDb": "https://www.imdb.com/title/tt2948372/?ref_=hm_tpks_tt_i_12_pd_tp1_cp",
+      "genero": "Drama",
+      "id": 17
+    },
+    {
+      "titulo": "Mortal Kombat",
+      "urlFoto": "https://sm.ign.com/t/ign_br/screenshot/default/mortal-kombat-poster2-1616630238403_ge98.620.jpg",
+      "dtLancamento": "2021-04-23T03:00:00.000Z",
+      "descricao": "Filme baseado no popular videogame.",
+      "nota": 7,
+      "urlIMDb": "https://www.imdb.com/title/tt0293429/?ref_=nv_sr_srsg_0",
+      "genero": "Ação",
+      "id": 18
+    },
+    {
+      "titulo": "Raya e o Último Dragão",
+      "urlFoto": "https://br.web.img3.acsta.net/pictures/20/10/20/20/41/4769094.jpg",
+      "dtLancamento": "2021-03-05T03:00:00.000Z",
+      "descricao": "Em um reino conhecido como Lumandra, uma Terra reinventada e habitada por uma civilização antiga, um guerreiro chamado Raya está determinado a encontrar o último dragão.",
+      "nota": 7.4,
+      "urlIMDb": "https://www.imdb.com/title/tt5109280/?ref_=tt_sims_tt",
+      "genero": "Aventura",
+      "id": 19
     }
   ]
 }
