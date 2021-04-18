@@ -1,3 +1,6 @@
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+![banner](https://github.com/rubensfranklin/Curso-intermediario-Angular/blob/main/a5cb4d8b-3139-4411-ae90-dd655a1deaa9.svg )
+
 # Curso Intermediário de Angular - Digital Innovation One
 
 Esse é o excercio do intermediario de angular no Bootcamp da[Avanade](https://www.avanade.com/pt-br) na plataforma [Digital Innovation One](https://digitalinnovation.one/)
