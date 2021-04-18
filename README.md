@@ -1,9 +1,10 @@
-<img src="https://github.com/rubensfranklin/Curso-intermediario-Angular/blob/main/a5cb4d8b-3139-4411-ae90-dd655a1deaa9.svg" width="600" height="400">
+![Image](https://github.com/rubensfranklin/Curso-intermediario-Angular/blob/main/a5cb4d8b-3139-4411-ae90-dd655a1deaa9.svg){ width="500" height="300" style="display: block; margin: 0 auto" }
+
 
 
 # Curso Intermediário de Angular - Digital Innovation One
 
-Esse é o excercio do intermediario de angular no Bootcamp da[Avanade](https://www.avanade.com/pt-br) na plataforma [Digital Innovation One](https://digitalinnovation.one/)
+Esse é o excercio do intermediario de angular no Bootcamp da [Avanade](https://www.avanade.com/pt-br) na plataforma [Digital Innovation One](https://digitalinnovation.one/)
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
