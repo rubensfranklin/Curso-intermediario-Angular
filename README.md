@@ -1,6 +1,6 @@
-![Image](https://github.com/rubensfranklin/Curso-intermediario-Angular/blob/main/a5cb4d8b-3139-4411-ae90-dd655a1deaa9.svg){ width="500" height="300" style="display: block; margin: 0 auto" }
-
-
+<p align="center">
+    <img src="https://github.com/rubensfranklin/Curso-intermediario-Angular/blob/main/a5cb4d8b-3139-4411-ae90-dd655a1deaa9.svg" alt="Image" width="800" height="600" />
+</p>
 
 # Curso Intermediário de Angular - Digital Innovation One
 
