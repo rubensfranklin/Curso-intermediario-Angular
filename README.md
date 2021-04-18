@@ -1,5 +1,5 @@
 
-![](https://github.com/rubensfranklin/Curso-intermediario-Angular/blob/main/a5cb4d8b-3139-4411-ae90-dd655a1deaa9.svg )
+![](https://github.com/rubensfranklin/Curso-intermediario-Angular/blob/main/a5cb4d8b-3139-4411-ae90-dd655a1deaa9.svg ) {:height="700px" width="400px"}
 
 # Curso Intermediário de Angular - Digital Innovation One
 
